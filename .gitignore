@@ -1,1 +1,6 @@
+backup/
+lib
+
+#file
 *.cfg
+*.exe
