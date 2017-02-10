@@ -46,14 +46,14 @@
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
-        <Filename Value="uutama.pas"/>
+        <Filename Value="uUtama.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="uUtama"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit1>
       <Unit2>
-        <Filename Value="brokers.pas"/>
+        <Filename Value="Brokers.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="Brokers"/>
         <EditorIndex Value="2"/>
