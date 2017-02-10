@@ -1,6 +1,7 @@
 backup/
-lib
+lib/
+out/
 
 #file
 *.cfg
-*.exe
+*.cgi

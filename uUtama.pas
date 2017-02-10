@@ -8,6 +8,9 @@ uses
   BrookAction;
 
 type
+
+  { TMyAction }
+
   TMyAction = class(TBrookAction)
   public
     procedure Get; override;
@@ -15,12 +18,14 @@ type
 
 implementation
 
+{ TMyAction }
+
 procedure TMyAction.Get;
 begin
-  Write('Hello world!');
+  Write('Your content here ...');
 end;
 
 initialization
-  TMyAction.Register('/');
+  TMyAction.Register('*');
 
 end.
